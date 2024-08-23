@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Kiranjit-2122
-- 👀 I’m interested in Fullstack development
+- 👋 Hi, I’m kiranjit kaur
+- 👀 I’m interested in MERN STACK DEVELOPMENT
 - 📫 How to reach me kiranjitk907@gmail.com
 
 <!---
