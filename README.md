@@ -1,4 +1,4 @@
-- 👋 Hi, I’m kiranjit kaur
+- 👋 Hi, I’m Kiranjit kaur
 - 👀 I’m interested in MERN STACK DEVELOPMENT
 - 📫 How to reach me kiranjitk907@gmail.com
 
